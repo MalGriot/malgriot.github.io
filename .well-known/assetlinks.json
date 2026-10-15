@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.malgriot.ebbless",
+      "sha256_cert_fingerprints": [
+        "B1:9A:69:FD:97:3B:FC:25:DE:A7:5F:90:83:D1:E1:91:C3:99:C4:19:BA:82:95:25:50:BB:46:83:F4:10:57:7C"
+      ]
+    }
+  }
+]
